@@ -1,2 +1,3 @@
 # webdev
-here i'll upload my web designed project.
+here is the frontend design of a frontend mentor challenge "music player".
+
